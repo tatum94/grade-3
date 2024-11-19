@@ -43,3 +43,38 @@
 | Healthy               | Tandurust (Achhi sehat wala)              |
 
 ---
+
+
+
+
+### **Chapter 2**
+
+| **English Word**      | **Roman Urdu Meaning**                   |
+|-----------------------|------------------------------------------|
+| Great                 | Azeem (Bohat bara, shandar)              |
+| Glorious              | Shandar (Jalalmand, azeem)               |
+| Golden                | Sunehri (Sona jese rang)                 |
+| Sun                   | Sooraj (Roshni dene wala)                |
+| Shine                 | Chamakna (Roshan hona)                   |
+| Down                  | Neeche (Zameen ki taraf)                 |
+| On                    | Par (Upar wali jagah)                    |
+| Me                    | Mujhe (Khud ko)                         |
+| Today                 | Aaj (Aaj ka din)                        |
+| Life                  | Zindagi (Jeene ka amal)                  |
+| Earth                 | Zameen (Jahan log rehte hain)            |
+| Magic                 | Jadu (Karishma, ajeeb amal)              |
+| Ray                   | Kirn (Roshni ki lakeer)                  |
+| Bird                  | Parinda (Urne wala janwar)               |
+| Plant                 | Poda (Ped ya hari ghass)                 |
+| Depend                | Inhisaar karna (Kisi cheez par bharosa)  |
+| Whole                 | Pura (Mukammal, sab kuch)                |
+| Day                   | Din (24 ghantay ka waqt)                 |
+| Long                  | Lamba (Zyada der tak)                    |
+| From                  | Se (Kisi jagah ya cheez ka aaghaz)       |
+| Heaven                | Jannat (Aasmaan ya upar wali jagah)      |
+| Blue                  | Neela (Aasmaani rang)                    |
+
+
+----
+
+
