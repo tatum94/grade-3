@@ -20,3 +20,17 @@
 (bohot saare jawab) charts, phool, posters, naqsha, nazmein, timetable, pauday, class ke rules, waghera.  
 
 <hr style="height:3px; border:none; background-color:white;" /> 
+### Chapter 2: Outdoor Class Fun  
+
+**Teacher:** Sit down children! What is going on? Do you want to say something?  
+(Baith jao bacho! Kya ho raha hai? Kya tum kuch kehna chahte ho?)  
+
+**Monitor:** Teacher, the weather is so nice! Can we have our class activities in the school ground?  
+(Teacher, mausam bohot acha hai! Kya hum apni class ki activities school ground mein kar sakte hain?)  
+
+**Teacher:** Okay, let's have attendance first and then go out to do some fieldwork.  
+(Theek hai, pehle attendance karte hain aur phir bahar jaake kuch kaam karte hain.)  
+
+**All students:** Thank you teacher! You're very kind!  
+(Shukriya teacher! Aap bohot achhe hain!)  
+<hr style="height:3px; border:none; background-color:white;" /> 
