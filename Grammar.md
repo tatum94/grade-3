@@ -94,3 +94,99 @@ Make sentences using the following words in your notebook:
 
 <hr style="height:5px; border:none; background-color:gray;" />
 
+
+# **Chapter 2: Grammar**
+
+## **Conjunctions**
+
+### **Activity: Identify Conjunctions**
+
+#### **Read Me:**  
+- A **conjunction** is a word that joins words, phrases, or sentences together.  
+  **Examples:** *and, or, but, because.*
+
+<hr style="height:1px; border:none; background-color:black;" />
+
+#### **Activity:**  
+
+**Underline the conjunctions** in the sentences below:  
+1. Ruby **and** Shehla went shopping.  
+2. Ruby wanted to buy a shirt **and** a scarf, **but** she could not buy them **because** she did not have enough money.  
+3. So, she could buy either a scarf **or** a shirt.  
+
+<hr style="height:1px; border:none; background-color:black;" />
+
+#### **Challenge:**  
+
+Fill in the blanks with suitable conjunctions:  
+
+1. He ______ his brother went to watch the cricket match.  
+2. Do you want to buy a shirt _______ a pair of shoes?  
+3. We believe in him, _______ he is honest.  
+4. I wanted to watch a movie _______ match.  
+
+---
+
+## **Anagrams**
+
+### **Activity: Create Anagrams**  
+
+#### **Read Me:**  
+- An **anagram** is a new word formed by rearranging the letters of another word.  
+  **Examples:**  
+  - *break → baker*  
+  - *ate → eat*  
+
+<hr style="height:1px; border:none; background-color:black;" />
+
+#### **Activity:**  
+
+Create anagrams from the following words:  
+
+1. ear → ______  
+2. act → ______  
+3. pat → ______  
+4. dam → ______  
+5. mug → ______  
+6. now → ______  
+
+<hr style="height:1px; border:none; background-color:black;" />
+
+### **Challenge:**  
+
+List five anagrams from your daily life and their meanings.  
+
+**Example Table:**  
+
+| **Original Word** | **Anagram** | **Meaning** |  
+|--------------------|-------------|-------------|  
+| listen             | silent      | Quiet or still |  
+| post               | stop        | To halt       |  
+
+---
+
+## **Sentence Structure**
+
+### **Activity: Identify Subjects and Verbs**
+
+#### **Read Me:**  
+- A **sentence** has a subject (who or what the sentence is about) and a verb (the action or state).  
+  **Example:** *The pencil is on the table.*  
+  - *pencil* → subject  
+  - *is* → verb  
+
+<hr style="height:1px; border:none; background-color:black;" />
+
+#### **Activity:**  
+
+Underline the subject in the sentences below and fill in the blanks with the correct verb:  
+
+**Words to use:** *plays, is, asks, works*  
+
+1. She __________ hard.  
+2. The teacher __________ a question.  
+3. My brother __________ cricket.  
+4. She __________ my class teacher.  
+
+<hr style="height:5px; border:none; background-color:gray;" />
+
