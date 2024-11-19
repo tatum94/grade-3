@@ -20,6 +20,8 @@
 (bohot saare jawab) charts, phool, posters, naqsha, nazmein, timetable, pauday, class ke rules, waghera.  
 
 <hr style="height:3px; border:none; background-color:white;" /> 
+
+
 ### Chapter 2: Outdoor Class Fun  
 
 **Teacher:** Sit down children! What is going on? Do you want to say something?  
