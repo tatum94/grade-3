@@ -36,3 +36,27 @@
 **All students:** Thank you teacher! You're very kind!  
 (Shukriya teacher! Aap bohot achhe hain!)  
 <hr style="height:3px; border:none; background-color:white;" /> 
+
+
+
+
+### Chapter 3: Grandmother's Love  
+
+**Ali:** Teacher, my grandmother is coming home today from Karachi.  
+(Teacher, meri daadi aaj Karachi se ghar aa rahi hain.)  
+
+**Teacher:** This is good news. You look so happy!  
+(Yeh bohot achi khabar hai. Tum bohot khush lag rahe ho!)  
+
+**Ali:** She is going to bring gifts for all of us. I can't wait anymore!  
+(Woh ham sab ke liye tohfay la rahi hain. Main aur intezaar nahi kar sakta!)  
+
+**Teacher:** It seems, she loves you a lot and takes good care of you.  
+(Aisa lagta hai ke woh tumse bohot pyar karti hain aur tumhara khayal rakhti hain.)  
+
+**Ali:** Yes, teacher! She helps me with my work, tells me stories, and takes me to slides and swings in the park.  
+(Haan, teacher! Woh meri kaam mein madad karti hain, kahaniyan sunati hain aur mujhe park mein slides aur swings par le jaati hain.)  
+
+**All students:** Oh, grandmothers are so full of love!  
+(Oho, daadiyan toh pyar se bhari hoti hain!)  
+
