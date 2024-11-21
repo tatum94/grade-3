@@ -77,4 +77,55 @@
 
 ----
 
+### **Chapter 3**
+
+
+| **English Word**      | **Roman Urdu Meaning (in parentheses)**                     |
+|-----------------------|------------------------------------------------------       |
+| Name                  | Naam (Woh lafz jo kisi shaks ya cheez ki shanakht karay)    |
+| Live                  | Rehna (Kisi jagah basna ya zindagi guzarna)                |
+| Small                 | Chhota (Chhoti size ya kam jagah wala)                     |
+| House                 | Ghar (Rehnay ki jagah)                                     |
+| Call                  | Kehna (Kisi ko pukarna ya naam lena)                       |
+| Happy                 | Khush (Muskaranay wala ya acha mahsos karna)               |
+| Home                  | Ghar (Rehnay ki jagah, apna maskan)                        |
+| Elder                 | Barha (Woh jo age mein barha ho)                           |
+| Sister                | Behen (Aurat jo ghar ki beti ho)                           |
+| Brother               | Bhai (Mard jo ghar ka beta ho)                             |
+| Younger               | Chhota (Woh jo age mein chhota ho)                         |
+| Parents               | Walidain (Maan aur baap)                                    |
+| Care                  | Khayal rakhna (Mohabbat aur tawajju dena)                  |
+| Grandparents          | Dada Dadi (Dada aur dadi ya nana nani)                     |
+| Feel                  | Mehsos karna (Kisi cheez ko andar se samajhna)            |
+| Another               | Dusra (Ek aur ya alag)                                     |
+| Uncle                 | Chacha / Mama (Baap ya maan ka bhai)                       |
+| Aunt                  | Phupo / Khala (Baap ya maan ki behen)                      |
+| Cousin                | Chachazad Bhai / Behen (Uncle ya aunt ke bache)            |
+| Meet                  | Milna (Kisi se mulaqat karna)                              |
+| Visit                 | Daura karna (Kisi jagah ya shaks ke paas jana)             |
+| Weekend               | Haftay ke aakhir ke din (Saturday aur Sunday)              |
+| Vacation              | Chhuttiyan (Kaam ya parhai se faraghat ke din)             |
+| Fun                   | Mazeedaar (Khushi aur maze ka ehsaas)                      |
+| Room                  | Kamra (Ghar ya building ka ek hissa)                       |
+| Kitchen               | Bawarchi Khana (Khana bananay ki jagah)                    |
+| Family                | Khandan (Ghar walay ya rishtedaar)                         |
+| Garden                | Bagh (Phool aur poudon ki jagah)                           |
+| Front                 | Samnay (Jis taraf dekha jata hai)                          |
+| Love                  | Pyar karna (Mohabbat ya dilchaspi ka izhar)                |
+| Water                 | Pani (Zaroori maada jo zindagi ke liye ahem hai)           |
+| Plant                 | Pouday (Hari bhari cheez jo zameen se ugti hai)            |
+| Evening               | Shaam (Din ke khatam hone ka waqt)                         |
+| Pet                   | Paltu Janwar (Woh janwar jo insano ke saath rehta hai)     |
+| White                 | Safed (Ek rang jo roshni ke jese hota hai)                 |
+| Kitten                | Billi ka bacha (Ek chhoti billi)                           |
+| Protect               | Hifazat karna (Mehfooz rakhna)                             |
+| Children              | Bachay (Chhoti age ke log)                                 |
+| Ability               | Salaiyat (Khas maharat ya kaabiliyat)                      |
+| Skill                 | Hunar (Kaam anjam dene ki maharat)                         |
+| Important             | Ahem (Jo zaroori ho)                                       |
+| Listen                | Sunna (Tawajju se kisi ki baat samajhna)                  |
+| Rules                 | Qawaid (Kisi kaam ko sahi tareeqay se anjam dene ke asool) |
+
+---
+
 
