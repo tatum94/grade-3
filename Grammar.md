@@ -188,5 +188,71 @@ Underline the subject in the sentences below and fill in the blanks with the cor
 3. My brother __________ cricket.  
 4. She __________ my class teacher.  
 
-<hr style="height:5px; border:none; background-color:gray;" />
+<hr style="height:5px; border:none; background-color:gray;" /> 
+
+
+# **Chapter 3: Grammar**
+
+## **Read Me**  
+- *"Have" is used with I, we, you, they.*  
+- *"Has" is used with he, she, it.*
+
+
+### **Exercise i: Contractions**
+
+| **Original Sentence**               | **Contraction**            |
+|-------------------------------------|----------------------------|
+| I have eaten an apple.              | I've eaten an apple.       |
+| We have liked the game.             | We've liked the game.      |
+| You have finished your work.        | You've finished your work. |
+| They have gone home.                | They've gone home.         |
+| He has written a letter.            | He's written a letter.     |
+
+---
+
+### **Exercise ii: Negative Contractions**
+
+| **Original Sentence**               | **Negative Contraction**       |
+|-------------------------------------|--------------------------------|
+| I have not eaten an apple.          | I haven't eaten an apple.      |
+| We have not liked the game.         | We haven't liked the game.     |
+| You have not finished your work.    | You haven't finished your work.|
+| They have not gone home.            | They haven't gone home.        |
+| He has not written a letter.        | He hasn't written a letter.    |
+| She has not taken part in a game.   | She hasn't taken part in a game.|
+| It has not flown away.              | It hasn't flown away.          |
+
+---
+
+## **Read Me:**  
+*When a word does not show male or female gender, it is a neuter gender. For example: doctor, chicken, ship, dishes.*
+
+
+### **Classify the Gender**
+
+| **A. Masculine**      | **B. Feminine**      | **C. Objects/Neuter**     |
+|------------------------|----------------------|---------------------------|
+| brother               | aunt                | beds                      |
+| nephew                | niece               | books                     |
+| father                | daughter            | chicken                   |
+| uncle                 | mother              | doctor                    |
+| prince                | sister              | boat                      |
+| son                   | hen                 |                           |
+| grandfather           | mare                |                           |
+| horse                 | goose               |                           |
+
+#### **iii. Respond to simple instructions and directions.**
+
+Follow instructions and directions at the end of the picture and complete the task.
+
+a. Put a circle around the cherries and colour them red.  
+b. Put a square around the apple and colour it green.  
+c. Draw a line from the lemon to the strawberry.  
+d. Colour four of the grapes purple and three of the grapes green.  
+e. Draw a line from the pear to the peach.  
+f. Colour the peach any colour you want.  
+g. Colour the strawberry red.  
+h. Colour the lemon yellow and broccoli green.  
+i. Colour the pear light green.  
+j. Draw a blue circle around your favourite food.  
 
