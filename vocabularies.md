@@ -128,4 +128,43 @@
 
 ---
 
+### **Chapter 4**
+
+| **English Word** | **Roman Urdu Meaning (in parentheses)**                       |
+|------------------|--------------------------------------------------------------|
+| Allah            | Allah (Khuda)                                                |
+| Prophet          | Nabi (Paighambar)                                            |
+| Rasool           | Rasool (Paighambar)                                          |
+| Blessing         | Barkat (Khuda ki den)                                        |
+| Mankind          | Insaan (Sab log)                                             |
+| Life             | Zindagi (Jeene ka safar)                                     |
+| Example          | Misal (Udaharan)                                              |
+| Kindness         | Meherbani (Pyara dikhana)                                     |
+| Children         | Bachay (Nanay log)                                            |
+| Loved            | Pasand kiya (Pyara samjha)                                    |
+| Love             | Mohabbat (Pyara dikhana)                                      |
+| Joy              | Khushi (Musharrat)                                            |
+| Companion        | Saathi (Saath chalne wala)                                   |
+| Sermon           | Khutba (Bayan)                                                |
+| Grandchildren    | Potay (Bachon ke bachay)                                      |
+| Shirts           | Kameez (Upar ka kapra)                                        |
+| Fell             | Girna (Neeche jaana)                                          |
+| Rushed           | Jaldi ki (Tezi se chalna)                                     |
+| Pick             | Uthana (Cheez ko apne paas lana)                              |
+| Fruit            | Phal (Meetha khana)                                           |
+| Season           | Mausam (Saal ka hissa)                                        |
+| Youngest         | Sab se chhota (Nana)                                           |
+| Child            | Bachcha (Nanay log)                                           |
+| Present          | Maujood (Yahan hona)                                           |
+| Journey          | Safar (Sair)                                                  |
+| Ride             | Sawari (Gaadi ya ghode par baithna)                           |
+| Battle           | Jung (Larna)                                                  |
+| Women            | Auratein (Khawateen)                                          |
+| Non-Muslims      | Ghair Musalman (Muslim na hone wale log)                      |
+| Forgive          | Maaf karna (Ghalatiyon ko maaf karna)                         |
+| Mistake          | Ghalati (Galat kaam)                                          |
+| Played           | Khela (Khelna)                                                |
+| Camel            | Oont (Registan mein chalanewala jaanwar)                      |
+| Dates            | Khajoor (Ek meetha phal)                                       |
+| Guidance         | Rehnumai (Raasta dikhana)                                     |
 
