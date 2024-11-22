@@ -168,3 +168,28 @@
 | Dates            | Khajoor (Ek meetha phal)                                       |
 | Guidance         | Rehnumai (Raasta dikhana)                                     |
 
+--
+| **English Word**      | **Roman Urdu Meaning (in parentheses)**                      |
+|-----------------------|--------------------------------------------------------------|
+| Taught                | Sikhaya (Sikhana ka kaam kiya)                               |
+| Just                  | Insaf Pasand (Jo insaf karta hai)                            |
+| Kind                  | Meharban (Jo doosron se achha sulook karta hai)              |
+| Feed                  | Khilana (Khana dena)                                         |
+| Poor                  | Gareeb (Jis ke paas paisa na ho)                             |
+| Hungry                | Bhookha (Jis ko bhook lagi ho)                               |
+| Wayfarer              | Musafir (Safar karne wala shaks)                             |
+| Orphan                | Yateem (Jis ke maa baap na hon)                              |
+| Child                 | Bacha (Chhota larka ya larki)                                |
+| Cruel                 | Zalim (Jo doosron se bura sulook karta hai)                  |
+| Miserly               | Kanjoos (Jo paisa kharch na kare)                            |
+| Speech                | Baat cheet (Bolne ka tareeqa)                                |
+| Soft                  | Naram (Jis mein sakhti na ho)                                |
+| Gentle                | Mulayam (Pyar se)                                            |
+| Mother                | Maa (Ammi, jo bacha paida karti hai)                         |
+| Stroking              | Sehlana (Pyar se haath pherna)                               |
+| Mercy                 | Reham (Meharbani karna)                                      |
+| Compassion            | Hamdardi (Dusron ke dard ko mehsoos karna)                   |
+| Radiant               | Chamakdar (Jo roshan ho)                                     |
+| Smiled                | Muskuraya (Muskurana ka kaam kiya)                           |
+| Teacher               | Ustad (Parhanay wala shaks)                                  |
+| Mankind               | Insaniyat (Sab insaan)                                       |
