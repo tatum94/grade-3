@@ -60,3 +60,8 @@
 **All students:** Oh, grandmothers are so full of love!  
 (Oho, daadiyan toh pyar se bhari hoti hain!)  
 
+---
+### Chapter 4  
+![Dialogue](https://github.com/tatum94/grade-3/blob/main/images/Screenshot%20from%202024-11-22%2007-49-32.png)
+
+
