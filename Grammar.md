@@ -256,3 +256,134 @@ h. Colour the lemon yellow and broccoli green.
 i. Colour the pear light green.  
 j. Draw a blue circle around your favourite food.  
 
+
+<hr style="height:5px; border:none; background-color:gray;" /> 
+
+
+# **Chapter 4: Grammar**
+
+
+### README Text
+An adjective is a word that describes a noun or pronoun. For example:
+The green grass looks pretty. (In this sentence, "green" is an adjective)
+
+**Exercise 1: Grammar - Adjectives**
+
+**i. Read examples and notice the use of adjectives.**
+- My father bought a house.
+- My father bought a new house. (new is an adjective)
+- Did you see the car?
+- Did you see the black car? (black is an adjective)
+
+**ii. Underline the adjectives.**
+1. My cousin bought a **beautiful** watch.
+2. A **colourful** painting was made by your sister.
+3. Ahmad likes to buy a **big** cake.
+4. I wanted to buy a **red** shirt.
+5. Omar wants to buy the **best** present for his friend.
+
+**Exercise 2: Fill in the blanks with possessive adjective words given in the box.**
+
+Examples:
+- My pillow is soft.
+- His bird is noisy.
+- Our house is new.
+
+Possessive Adjective:
+We use possessive adjectives to express who owns something.
+
+Fill in the blanks with possessive adjectives given in the box:
+1. Our dog is small.
+2. Your book is new.
+3. Her car is slow.
+
+**Box:**
+- her
+- your
+- our
+
+---
+
+### Solutions
+
+**Solutions for Exercise 1: Underline the Adjectives**
+1. My cousin bought a **beautiful** watch.
+2. A **colourful** painting was made by your sister.
+3. Ahmad likes to buy a **big** cake.
+4. I wanted to buy a **red** shirt.
+5. Omar wants to buy the **best** present for his friend.
+1. Our dog is small.
+2. Your book is new.
+3. Her car is slow.
+1. Our dog is small.
+2. Your book is new.
+3. Her car is slow.
+
+
+---
+**Read Me**  
+The present continuous tense is used to describe an action that is presently going on. For example:  
+The boy is running.  
+Ahmad is watering the plants.  
+(‘is running,’ ‘is watering’ are present continuous tense).
+
+---
+
+### Exercise iv. Read the given sentences:  
+
+- **We**  
+  - are eating.  
+  - are jumping.  
+  - are running.
+
+- **You**  
+  - are eating.  
+  - are jumping.  
+  - are running.
+
+- **They**  
+  - are eating.  
+  - are jumping.  
+  - are running.
+
+- **He**  
+  - is walking.  
+
+- **She**  
+  - is playing.
+
+- **It**  
+  - is running.
+
+- **I**  
+  - am eating.  
+  - am jumping.  
+  - am running.
+
+---
+
+### Exercise v. Underline the present continuous tense verbs:
+
+1. You are sitting in the last row.  
+2. I am looking at the old pictures.  
+3. She is playing games.  
+4. People are eating mangoes.  
+5. He is walking.  
+6. They are reading.
+
+---
+
+### Solve Exercise:
+
+#### Underlined Present Continuous Verbs:  
+
+1. **are sitting**  
+2. **am looking**  
+3. **is playing**  
+4. **are eating**  
+5. **is walking**  
+6. **are reading**
+
+
+
+
