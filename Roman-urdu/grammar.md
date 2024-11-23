@@ -385,3 +385,103 @@ Present Continuous Tense ke jumle aksar kuch waqt ke lafz ke saath use hote hain
 - Negative ke liye: **Subject + To Be Verb + NOT + Verb ("-ing")**
 - Sawaal ke liye: **To Be Verb + Subject + Verb ("-ing")?**
 - Waqt wale lafz (Now, At the moment, Currently) ka istemal karein.
+---
+---
+**Conjunctions kya hain?**
+
+Conjunctions kuch khaas alfaz hain jinke zariye hum do ya zyada jumlon, baaton, ya ideas ko jodte hain. Yeh alfaz humari baat ko behtar aur mukammal tareeqe se samjhane mein madad karte hain. Aayein kuch aam conjunctions ko Urdu aur English dono mein samjhein.
+
+### **1. Aur (And)**
+
+**Explanation**: "Aur" ka use hum tab karte hain jab humein do ya zyada cheezon ko saath jod kar ek batana ho. English mein isko "and" kehte hain.
+
+- **English Example**: 
+  - "Ali and Sara are playing in the park."
+    - (Ali **aur** Sara park mein khel rahe hain.)
+- **Urdu Example**: 
+  - "Sameer **aur** uski behen school ja rahe hain."
+    - (Yahan "aur" se pata chal raha hai ke dono saath mein school ja rahe hain.)
+
+**Summary**: "Aur" ya "and" se humein pata chalta hai ke do ya zyada cheezein ek saath ho rahi hain.
+
+### **2. Lekin (But)**
+
+**Explanation**: "Lekin" ka use tab hota hai jab hum do mukhtalif ya ek doosre se alag baaton ko saath batana chahte hain. English mein isko "but" kehte hain.
+
+- **English Example**: 
+  - "I like mangoes, but I do not like bananas."
+    - (Mujhe aam pasand hain, **lekin** mujhe kele pasand nahi hain.)
+- **Urdu Example**: 
+  - "Usman cricket khelta hai **lekin** usko football pasand nahi."
+    - (Yahan "lekin" se pata chal raha hai ke ek baat doosri se alag hai.)
+
+**Summary**: "Lekin" ya "but" se humein pata chalta hai ke do baaton mein mukhalfat (difference) hai.
+
+### **3. Ya (Or)**
+
+**Explanation**: "Ya" ka use hum tab karte hain jab humein kisi ko do ya zyada options (intekhab) dene hoon. English mein isko "or" kehte hain.
+
+- **English Example**: 
+  - "Would you like tea or coffee?"
+    - (Kya aap chai **ya** coffee lena pasand karenge?)
+- **Urdu Example**: 
+  - "Tumhien ice cream chahiye **ya** chocolate?"
+    - (Yahan "ya" se do options diye hain — ice cream ya chocolate.)
+
+**Summary**: "Ya" ya "or" se humein pata chalta hai ke do cheezon mein se ek chunni hai.
+
+### **4. Kyunke (Because)**
+
+**Explanation**: "Kyunke" ka use hum tab karte hain jab humein kisi cheez ki wajah ya reason batani ho. English mein isko "because" kehte hain.
+
+- **English Example**: 
+  - "He brought an umbrella because it was raining."
+    - (Woh chhatri laya **kyunke** baarish ho rahi thi.)
+- **Urdu Example**: 
+  - "Main ghar jaldi aaya **kyunke** mujhe thakawat ho rahi thi."
+    - (Yahan "kyunke" se wajah batayi gayi hai.)
+
+**Summary**: "Kyunke" ya "because" se humein pata chalta hai ke kisi kaam ki wajah kya hai.
+
+### **Grade 3 ke students ke liye mushkil conjunctions**
+
+Ab hum kuch thode mushkil conjunctions dekhte hain jinke examples English aur Urdu dono mein hain. Yeh grade 3 ke students ke liye hain.
+
+### **5. Magar (Although)**
+
+**Explanation**: "Magar" ka use hum tab karte hain jab do baatein alag hoon, lekin hum dono ko saath batana chahein. English mein isko "although" ya "though" kehte hain.
+
+- **English Example**: 
+  - "Although it was raining, they went to play."
+    - (Magar baarish ho rahi thi, phir bhi woh khelne gaye.)
+- **Urdu Example**: 
+  - "**Magar** mujhe thand lag rahi thi, phir bhi main bahar gaya."
+    - (Yahan "magar" se ek mukhalfat aur himmat ki baat ho rahi hai.)
+
+### **6. Jab tak (Until)**
+
+**Explanation**: "Jab tak" ka use hum tab karte hain jab hum kisi cheez ke hone ya rukne ka intezar kar rahe hoon. English mein isko "until" kehte hain.
+
+- **English Example**: 
+  - "Wait here until I come back."
+    - (Yahan ruko **jab tak** main wapas na aaun.)
+- **Urdu Example**: 
+  - "Hum ne khel shuru nahi kiya **jab tak** baarish ruk nahi gayi."
+    - (Yahan "jab tak" se ek condition di ja rahi hai.)
+
+### **7. Agar (If)**
+
+**Explanation**: "Agar" ka use hum tab karte hain jab humein kisi baat ya kaam ki shart batani ho. English mein isko "if" kehte hain.
+
+- **English Example**: 
+  - "If you study well, you will pass the exam."
+    - (Agar tum achi tarah parhai karoge, toh tum imtihan mein pass ho jaoge.)
+- **Urdu Example**: 
+  - "**Agar** baarish ho gayi, toh hum picnic nahi jaenge."
+    - (Yahan "agar" se ek condition batayi gayi hai.)
+
+**Khulasa**:
+
+Conjunctions jaise "aur" (and), "lekin" (but), "ya" (or), aur "kyunke" (because) ka use grade 1 se seekhna shuru hota hai, kyunke yeh asaan hain. Jab hum grade 3 mein jaate hain, toh hum "magar" (although), "jab tak" (until), aur "agar" (if) jese conjunctions seekhte hain, taake humari baat aur behtar tareeqe se samajh aaye. 
+
+Yeh conjunctions humari zubaan ko zyada rawaan (smooth) banate hain aur sunne walon ko asaani se samajh aata hai ke hum kya kehna chahte hain.
