@@ -239,3 +239,149 @@ English mein **gender** ka matlab hota hai kisi insaan, jaanwar ya cheez ka **ma
    - Boat → Neuter  
 
 ---
+
+# chapter 4
+
+### **Present Continuous Tense Kya Hai?**
+
+Present Continuous Tense ka istemal hum tab karte hain jab koi kaam abhi ho raha ho ya chal raha ho. Yeh tense un kaamon ko dikhane ke liye hota hai jo abhi, yani ke baat karte waqt ho rahe hain.
+
+**Structure:**
+
+1. **Subject**: Jis shaks ya cheez ke baare mein baat ho rahi ho.
+2. **To Be Verb**: "am", "is", "are" lagate hain subject ke mutabiq.
+3. **Main Verb + "-ing"**: Har verb ke end mein "-ing" lagana zaroori hota hai jo batata hai ke kaam abhi ho raha hai.
+
+---
+
+### **Rules for Present Continuous Tense**
+
+#### **1. Subject ke Mutabiq "To Be Verb" Lagana**
+
+**To Be Verb** woh verbs hain jo subject ke hisaab se lagaye jaate hain aur yeh batate hain ke subject kis haal mein hai. Present Continuous Tense mein "to be verbs" istemal hote hain: **am**, **is**, aur **are**.
+
+**To Be Verb ka Matlab**: "To Be Verb" woh verbs hain jo subject ke haal ya action ko zahir karte hain. English mein "to be" ki form mein teen verbs hain: **am**, **is**, aur **are**. Yeh verbs batate hain ke kisi kaam ya action ka haal abhi ho raha hai ya nahi ho raha. Har subject ke hisaab se in verbs ka istemal alag hota hai:
+
+- **Am** sirf **I** ke saath use hota hai.
+- **Is** singular subjects ke saath jaise **He, She, It**.
+- **Are** plural subjects ya **You, We, They** ke saath.
+
+Subject ke mutabiq **am**, **is**, ya **are** lagate hain. Niche table diya gaya hai jo samajhne mein asaani karega:
+
+| **Subject** | **To Be Verb** |
+| ----------- | -------------- |
+| I           | am             |
+| He/She/It   | is             |
+| We/You/They | are            |
+
+- **I ke saath "am" lagta hai**.
+  - Example: **I am walking.** (Main chal raha hoon.)
+
+- **He, She, It ke saath "is" lagta hai**.
+  - Example: **She is playing.** (Woh khel rahi hai.)
+
+- **We, You, They ke saath "are" lagta hai**.
+  - Example: **They are studying.** (Woh log parh rahe hain.)
+
+**Am, Is, Are** ka istemal:
+- **Am** sirf **I** ke saath use hota hai.
+- **Is** un subjects ke saath use hota hai jo singular hain, jaise **He, She, It**.
+- **Are** un subjects ke saath use hota hai jo plural hain, ya **You, We, They**.
+
+#### **2. Verb ke Saath "-ing" Lagana**
+
+Jo kaam ho raha hai us verb ke end mein **-ing** zaroor lagta hai. Verb ko "-ing" mein tabdeel karna har present continuous tense ke liye zaroori hai.
+
+- **Eat → Eating**
+- **Run → Running**
+
+#### **3. Negative Sentences Banane Ka Rule**
+
+Agar kaam ko mana karna ho ya dikhana ho ke koi kaam **nahi ho raha**, to hum "not" ka istemal karte hain. Structure kuch is tarah hota hai:
+
+**Subject + To Be Verb + NOT + Verb + "-ing"**
+
+- Example: **I am not eating.** (Main nahi kha raha hoon.)
+
+#### **4. Question Banane Ka Rule**
+
+Agar sawal karna ho, to **To Be Verb** ko subject se pehle lagate hain. Iska structure kuch is tarah hota hai:
+
+**To Be Verb + Subject + Verb + "-ing"?**
+
+- Example: **Is she dancing?** (Kya woh naach rahi hai?)
+
+#### **5. Time Words Ka Istemaal**
+
+Present Continuous Tense ke jumle aksar kuch waqt ke lafz ke saath use hote hain, jo waqt ka pata dete hain. Ye lafz hain:
+- **Now** (Abhi)  
+- **At the moment** (Is waqt)  
+- **Currently** (Filhal)
+
+---
+
+### **Examples of Present Continuous Tense**
+
+#### **Affirmative Sentences (Musbat Jumle):**
+
+1. **I am eating.** (Main kha raha hoon.)
+2. **She is dancing.** (Woh naach rahi hai.)
+3. **They are watching a movie.** (Woh ek film dekh rahe hain.)
+
+#### **Negative Sentences (Nafi Jumle):**
+
+1. **I am not eating.** (Main nahi kha raha hoon.)
+2. **She is not running.** (Woh bhaag nahi rahi hai.)
+3. **They are not reading.** (Woh nahi parh rahe hain.)
+
+#### **Questions (Sawaal):**
+
+1. **Are you eating?** (Kya tum kha rahe ho?)
+2. **Is she dancing?** (Kya woh naach rahi hai?)
+3. **Am I studying?** (Kya main parh raha hoon?)
+
+---
+
+### **Common Mistakes to Avoid**
+
+1. **Subject aur To Be Verb ka match na hona**
+   - ❌ **I is eating.**
+   - ✅ **I am eating.**
+
+2. **Verb ke saath "-ing" na lagana**
+   - ❌ **She is run.**
+   - ✅ **She is running.**
+
+3. **Negative aur question format ka ghalat istemal**
+   - ❌ **She not is running.**
+   - ✅ **She is not running.**
+   - ❌ **Is running she?**
+   - ✅ **Is she running?**
+
+---
+
+### **Practice Exercise**
+
+#### **1. Find Present Continuous Verb:**
+
+1. **She is singing.**
+   - Verb: **is singing**
+
+2. **We are playing cricket.**
+   - Verb: **are playing**
+
+3. **I am not running.**
+   - Verb: **am not running**
+
+4. **Are they dancing?**
+   - Verb: **are dancing**
+
+---
+
+### **Summary**
+
+- Present Continuous Tense ka istemal **abhi ho rahi harakat** ko bayaan karne ke liye hota hai.
+- Structure: **Subject + To Be Verb + Main Verb ("-ing")**
+- Negative ke liye: **Subject + To Be Verb + NOT + Verb ("-ing")**
+- Sawaal ke liye: **To Be Verb + Subject + Verb ("-ing")?**
+- Waqt wale lafz (Now, At the moment, Currently) ka istemal karein.
