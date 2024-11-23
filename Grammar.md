@@ -387,3 +387,17 @@ Ahmad is watering the plants.
 
 
 
+---
+**Conjunction**
+
+vi. Fill in the blanks with appropriate conjunctions in the following paragraph.
+
+**and, but, or, because**
+
+Sameer ________ his sister were standing outside the gate. They saw their uncle coming towards them. He was holding an umbrella in his hand ________ it was raining. I asked him if he would like to have tea ________ coffee. He thanked ________ went away.
+
+
+
+**Solve Exercise**
+
+Sameer **and** his sister were standing outside the gate. They saw their uncle coming towards them. He was holding an umbrella in his hand **because** it was raining. I asked him if he would like to have tea **or** coffee. He thanked **and** went away.
